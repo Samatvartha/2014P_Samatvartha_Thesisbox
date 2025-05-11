@@ -56,7 +56,7 @@ The story of recent centuries, if not millennia, has been of oscillating power g
 
 Recognizing this interconnectedness is vital. New technologies and narratives reshape culture, which in turn defines economic priorities and determines whether we regenerate, sustain, degenerate or outright destroy natural and social capital -hiding behind the veil of false dichotomy that is 'growth' and 'development'.
 
-![[ee.jpg]]
+![Concurrent Embedded Economies](_images/ee.jpg)
 
 Thus, within any economic system, we can identify four intersecting tiers; understanding of which will be key to intentional holistic transition: Let's call them the "Four Parallel Circular Economies"
 1. **Regenerative**: _Most local circularity._ Actively restores ecosystems and communities (e.g., agroforestry, community energy, local education and enterprising, etc.)
@@ -99,7 +99,7 @@ Inspired from various polycentric governance models - from the past as well as p
 > The Sutradhaar of the Network State use the Interchain tools to collaborate, build ventures, and create a Cambrian explosion of regenerative value creation. They also drive the need for and advocate for changes embodied in the Stack - a cohesive set of public policy prescription, and change management thereof, to make India (or any other willing nation state) into a regenerative economy. 
 
 ##### Sahastra Samatvartha Sutradhaar
-Just like India Stack needed [Sutradhaars](https://www.linkedin.com/posts/ispirt_india-stack-explained-uidai-chairperson-activity-7175753853286440960-r6t3/) to bring the techno-legal DPI vision to life, so will Samatvartha. To begin with, a network state of **1000 individuals, institutions or initiatives** aligned with the greater vision. These _Sutradhaars_ act as the initial catalysts, rapidly contributing to building and promoting the Samatvartha Stack & Interchain, thereby paving the way for a much larger ecosystem - as these 1000s start nesting their own efforts and contributors, and so on! That's the ambition. You can call it an ecosystem, a community, a [network state](https://thenetworkstate.com/), a [fractal mandala](https://www.brhat.in/mandala); ultimately, it's about alignment, collaboration and exponential progress towards a regenerative future.
+Just like India Stack needed [Sutradhaars](https://www.linkedin.com/posts/ispirt_india-stack-explained-uidai-chairperson-activity-7175753853286440960-r6t3/) to bring the techno-legal DPI vision to life, so will Samatvartha. To begin with, a network state of **1000 individuals, institutions or initiatives** aligned with the greater vision. These _Sutradhaars_ act as the initial catalysts, rapidly contributing to building and promoting the Samatvartha Stack & Interchain, thereby paving the way for a much larger ecosystem - as these 1000s start nesting their own efforts and contributors, and so on! That's the ambition. You can call it an ecosystem, a community, a [network state](https://thenetworkstate.com/the-network-state-in-one-sentence), a [fractal mandala](https://www.brhat.in/mandala); ultimately, it's about alignment, collaboration and exponential progress towards a regenerative future.
 
 ---
 ### 2014P_ Approach:
@@ -163,4 +163,4 @@ Will you do your bit?
 
 # Appendix
  
-![[2014P_Samatvartha_Thesisbox_Vertical_0506.svg]]
+![[_images/2014P_Samatvartha_Thesisbox_Vertical_0506.svg]]
