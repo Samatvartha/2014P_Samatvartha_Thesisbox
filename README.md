@@ -163,4 +163,4 @@ Will you do your bit?
 
 # Appendix
  
-![[_images/2014P_Samatvartha_Thesisbox_Vertical_0506.svg]]
+![High Level Concept Map for Applied Samatvartha](_images/2014P_Samatvartha_Thesisbox_Vertical_0506.svg)
