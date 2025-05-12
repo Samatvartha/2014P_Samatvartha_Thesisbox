@@ -226,7 +226,7 @@ The core components of the solution includes:
 > intercamp.in ; ~~(.org is available at 1.2 Lakh)~~
 
 
-![Intercamp Astral Poster](_images/ic.jpg)
+![Intercamp Astral Poster](../_images/ic.jpg)
 
 Step into Intercamp, your **Astral Gateway** where **Coworking + Communities** power **Learning by Doing**. Our platform offers a minimal, yet powerful, digital space for individuals to actively build their skills and portfolio by tackling real-world quests (projects) and bounties (tasks). Forget traditional, often rigid, learning paths; Intercamp provides an asynchronous alternative to internships and bootcamps, emphasizing hands-on experience that directly translates into tangible "proof of work." While we kickstart the ecosystem by seeding initial projects across vital tracks like open-source, R&D, and outsourcing, the platform is built to empower anyone – from university departments to industry labs and community initiatives – to easily host and manage their own collaborative work. This makes Intercamp a versatile "plug-and-play" solution, serving as a virtual practice school for students, a source of flexible apprenticeships for companies, and a self-sustaining ecosystem for talent to gain equity, experience, and progress through diverse project types. Our vision extends to offline co-working and makerspaces, creating blended environments that bridge academia and industry and facilitate deep, hands-on collaboration. As the demand for practical, flexible learning soars, Intercamp is ready to play a crucial role in shaping future talent and driving innovation forward.
 
