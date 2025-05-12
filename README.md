@@ -1,7 +1,7 @@
 # 2014P_Samatvartha_Thesisbox
 Incubating the ideas and action plan for Sāmatvārtha (Network State) 
 
-> [!info] Draft Under Progress | Version v0.3.4
+> [!NOTE] Draft Under Progress | Version v0.3.4
 
 ### Repository Hierarchy
 To understand this repository better, consider following hierarchy, which you will discover to be analogous to Intercamp constructs:
@@ -121,7 +121,7 @@ All our venture blueprints & frameworks - i.e. protocols, platforms, playbooks a
 
 Our goal is impact over valuation. We are considering a simple cohort/community membership fee for early monetization to sustain the orchestration piece of this effort. The end goal of 2014P_ Venture Lab is to grow this community to 1000s of Proprietor with their own Micro/Small Regenerative Enterprises; a *Sāmatvārtha Network State* of changemakers leveraging *Sāmatvārtha Interchain* - an ecosystem of public goods in form of DPI for regenerative businesses - to catalyze conscious capitalism within their orbit.
 
-> [!tip] 100 Sutradhaars. 1000 Sutradhaars. 10000 Sutradhaars. The unicorn we need.
+> [!TIP] 100 Sutradhaars. 1000 Sutradhaars. 10000 Sutradhaars. The unicorn we need.
 > 
 > Though we do not give much heed to the noise of valuations, but to elaborate on the impact goal here and talk in the language of zeitgeist: assuming ~8x PE multiple, 10,000 regenerative entrepreneurs earning 12L per year tax-free income from their sole-proprietorships gives this network a 10,000 Crore 'valuation'. That's our interpretation of the one-person unicorn hypothesis that many in VCs (and Sam Altman) are imagining in a 'post-AI' world. What they seek - that one person concentrating so much economic surplus - only perpetuates our recurring mistakes; so i like our interpretation of a federated unicorn network state more than a private unicorn. 
 > 
