@@ -14,6 +14,9 @@ To understand this repository better, consider following hierarchy, which you wi
 ### Contribution Guideline
 {(Coming Soon}}
 
+### Quick Remarks
+- Since current writeups are dense and slightly heavy read as per some feedback, we will work on simplifying these memos with precise and straightforward language for v0.3.5 (if not before).
+
 ---
 # Building Bharat's Regenerative Future
 > Catalyzing Conscious Capitalism through Business . Technology . Content . Compliance .
