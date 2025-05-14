@@ -7,7 +7,7 @@ This repository is the incubation hub for **Sāmatvārtha** – a comprehensiv
 
 ### Understanding Our Structure: A Modular Approach
 
-To navigate this repository and our broader vision, consider the following hierarchy. This modular structure mirrors the constructs of Intercamp, a sub-module for coworking+community collaboration between individuals, instituions, and initiatives. constructs and other initiatives, fostering agility and scalability:
+To navigate this repository and our broader vision, consider the following hierarchy. This modular structure mirrors the constructs of Intercamp, a sub-module for coworking+community collaboration between individuals, institutions, and initiatives.
 
 - **Initiatives:** Overarching strategic commitments (e.g., the Sāmatvārtha Network State, the Interchain, the Stack). Currently, these are unified within this ThesisBox repository.
     
