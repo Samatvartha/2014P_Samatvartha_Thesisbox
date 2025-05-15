@@ -4,8 +4,7 @@ This repository is the incubation hub for **Sāmatvārtha** – a comprehensiv
 
 
 > [!NOTE]  
-> Draft Under Progress | Version v0.3.5
-> Do vote up this initiative at the [Network State Dashboard](https://thenetworkstate.com/dashboard/p/samatvartha)
+> Draft Under Progress | Version v0.3.5 | Do vote up this initiative at the [Network State Dashboard](https://thenetworkstate.com/dashboard/p/samatvartha)
 
 ---
 ### TLDR 🔰
