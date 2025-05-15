@@ -11,7 +11,7 @@ This repository is the incubation hub for **Sāmatvārtha** – a comprehensiv
 
 Based on a philosophical framework of "Sāmatva" (balance/equilibrium/resonance) + "Artha" (purpose/prosperity/meaning), aiming to harmonise economic activity with ecological and social well-being. 
 
-2014P_ is incubating this thesis and initial network - until it takes its own shape - via a **Venture Lab** (a DPI venture builder) and **Think Tank** (focused on public policy and institutional reform). You can consider this as Indian version of Doughnut Economic Action Lab, but more indexed on private venture building for impact.
+2014P_ is incubating this thesis and initial network - until it takes its own shape - via a **Venture Lab** (a DPI venture builder) and **Think Tank** (focused on public policy and institutional reform). You can consider this as Indian version of Doughnut Economic Action Lab or Boundaryless, but more indexed on new private ventures building for impact.
 
 **How it Works (The "Sāmatvārtha Ecosystem"):** 🤔
 
@@ -21,18 +21,18 @@ Based on a philosophical framework of "Sāmatva" (balance/equilibrium/resonance)
 2. **Sāmatvārtha Interchain** – _Cosmos for Commons:_
    A network of interoperable tools, ventures, and digital infrastructure enabling regenerative business models (by innovating on foundational primitives like capital, labour, land, etc.). Built through incremental venture experiments and scaled into federated franchising & DPI platforms. Few examples:
    
-	- Modular Agri/venture models & CBG-based underwriting for land's organic transition (ForrestFarms, JaivikSetu)
+	- Modular Agri/venture models & CBG-based underwriting for land's organic transition
 	  
-	- Urban cooperative banking layered with P2P regulations to build autonomous lending protocols -- think competitor to NPCI & Commercial Banking syndicates (KYRM)
+	- Urban cooperative banking layered with P2P regulations to build autonomous lending protocols
 	  
-	- Avenues for open education, learning by doing, and coworking with communities (Anvi Kriti, Intercamp)
+	- Avenues for open education, learning by doing, and coworking with communities
 	  
 	- Playbooks for micro-enterprising to properly leverage government schemes like PMEGP, AIF, etc.
 	  
 	- and more...
 
 3. **Sāmatvārtha Network State** – _1,000 Sutradhaars:_  
-   A decentralized community of individuals, institutions, and initiatives co-creating and stewarding this ecosystem. Inspired by the Network State model but grounded in Indic civilizational values.
+   A decentralized community of individuals, institutions, and initiatives co-creating and stewarding this ecosystem. Inspired by the Network State model, grounded in the wisdom of Indus Valley.
 
 
 **The Big Picture:** 🌄
