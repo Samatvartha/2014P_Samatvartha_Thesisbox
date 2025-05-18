@@ -27,7 +27,7 @@ A decentralized quick commerce backbone for India. Empowering new-age local entr
     - **Commercial Real Estate (CRE) Owners:** Monetizing space via tech-integrated, stable tenants, potentially leveraging **KYRM Realty** for fractional investment & asset management of these fulfillment nodes.
     - **Third-Party Logistics (3PL):** For optimized, potentially aggregated, last-mile delivery.
 
-> A possible branch: if current quick commerce platform themselves start seeing value in offloading the QC capex and they become the buy side app (consider Swiggy Instamart's per store ~20L loss compared to blinkit's 20L profit, or Flipkart minutes recent announcement to roll roll expansion plan from 500 darkstore to limiting them ot just 8 cities). It's actually can be a strategic play for them as well to compete against the 50% market share with more agility while empowering the narrative of helping kiranas instead of competing with them. This fork is TBD. Read along to understand better.
+> A strategic consideration for **QC incumbents**: This federated model could also appeal to Quick Commerce incumbents. Faced with high capex (e.g., Swiggy Instamart's reported ~₹20L per store loss vs. Blinkit's ~₹20L profit as per [ASYMMETRIC Podcast](https://www.youtube.com/watch?v=2Pt92wj6-t8), or Flipkart Minutes scaling back expansion from 500 dark stores to just 8 cities), these platforms could leverage KiranaCulture to compete more agilely against Blinkit's ~50% market share, while reframing their narrative from Kirana competitors to enablers. This fork remains under exploration.
 
 ### How It Works: Value Realigned
 
