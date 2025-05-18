@@ -27,6 +27,8 @@ A decentralized quick commerce backbone for India. Empowering new-age local entr
     - **Commercial Real Estate (CRE) Owners:** Monetizing space via tech-integrated, stable tenants, potentially leveraging **KYRM Realty** for fractional investment & asset management of these fulfillment nodes.
     - **Third-Party Logistics (3PL):** For optimized, potentially aggregated, last-mile delivery.
 
+> A possible branch: if current quick commerce platform themselves start seeing value in offloading the QC capex and they become the buy side app (consider Swiggy Instamart's per store ~20L loss compared to blinkit's 20L profit, or Flipkart minutes recent announcement to roll roll expansion plan from 500 darkstore to limiting them ot just 8 cities). It's actually can be a strategic play for them as well to compete against the 50% market share with more agility while empowering the narrative of helping kiranas instead of competing with them. This fork is TBD. Read along to understand better.
+
 ### How It Works: Value Realigned
 
 - **For D2C Brands:**
@@ -140,6 +142,7 @@ A decentralized quick commerce backbone for India. Empowering new-age local entr
             
 - **Key GTM Principle:** Start focused, prove the model with strong anchor partners, then leverage that success to build out the federated network. Prioritize creating tangible value for the first users.
 
+- The Late-entrant / less market-share strategic pivot for Flipkart Minutes, Swiggy Instamart possibility. But this is parked for now.
 
 ---
 # Appendix 
@@ -150,6 +153,7 @@ A decentralized quick commerce backbone for India. Empowering new-age local entr
 
 ![](../_images/kc-dark-speed.png)
 
-![kc-map](kc-map.png)
-
 ![kc-delivery](../_images/kc-delivery.png)
+
+
+![kc-map](../_images/kc-map.png)
