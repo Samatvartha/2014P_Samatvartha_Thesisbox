@@ -1,8 +1,8 @@
-This is a quick excerpt from Samatvartha Policy Design Framework, presented as a proposal for Urbanism policy for Avanti Metropolitan Region (aka Indore-Ujjain Metropolitan Region). This is part of a broader thesis by 2014P_ a Think Tank and Venture Lab working towards proliferating regenerative economics in Bharat.
+This is a quick excerpt from Samatvartha Policy Design Framework, presented as a proposal for Urbanism policy for Avanti Metropolitan Region (aka Indore-Ujjain Metropolitan Region). In a crude summary, it's like Transferrable Development Rights - which have been one of the core reason for Mumbai's BMC high revenues - but more exhaustive yet simpler. The elegance of maths & market mechanisms can autonomously help decide green-space, blue-space, air-space development equilibriums, thus saving local administrative bodies both time & resources, while providing faster and better optimised outcomes.
 
-We call it Samatvartha. "Sāmatva" (balance/equilibrium/resonance) + "Artha" (purpose/prosperity/meaning), aiming to harmonise economic activity with ecological and social well-being. 
+This is part of a broader thesis by 2014P_ a Think Tank and Venture Lab working towards proliferating regenerative economics in Bharat. We call it Samatvartha. "Sāmatva" (balance/equilibrium/resonance) + "Artha" (purpose/prosperity/meaning), aiming to harmonise economic activity with ecological and social well-being. 
 
-2014P_ is more than happy to work with administrators & politicians to help shape policy compatible with Samatvartha, while keeping up with the cutting-edge of technology and economics. I am [Nilesh Lahoty](https://www.linkedin.com/in/lahnil/), founder of 2014P_ Think Tank & Venture Lab. I pursued Economics & Mechanical Engineering from BITS Pilani, after which I worked with Goldman Sachs for four years in their Treasury division. More details about Samatvartha for Public Policy & Private Sector are being documented here in 8_Public_Policy)Samatvartha_Stack folder: [https://github.com/Samatvartha/2014P_Samatvartha_Thesisbox](https://github.com/Samatvartha/2014P_Samatvartha_Thesisbox)
+2014P is more than happy to work with administrators & politicians to help shape policy compatible with Samatvartha, while keeping up with the cutting-edge of technology and economics. I am [Nilesh Lahoty](https://www.linkedin.com/in/lahnil/), pursued Economics & Mechanical Engineering from BITS Pilani, after which I worked with Goldman Sachs for four years in their Treasury division. More details about Samatvartha for Public Policy are being documented here in 8_Public_Policy_Samatvartha_Stack folder: [https://github.com/Samatvartha/2014P_Samatvartha_Thesisbox](https://github.com/Samatvartha/2014P_Samatvartha_Thesisbox)
 
 > यह लेख नीचे हिंदी में भी उपलब्ध है। [[#अवंती के भविष्य का पथप्रदर्शन]]
 
@@ -40,9 +40,6 @@ Add to this poor local governance and supporting ecosystem like think tanks or c
 
 We aren't arguing for *more* top-down planning. We disagree with overly rigid, grid-focused approaches. For complex adaptive systems like cities, especially in a densely populated nation like India (10x the density of the US, 5x Europe, 2.5x China), simple, effective heuristics are far superior. **India might admire Chandigarh, but it’s a model unsuited for our dynamic urban future.** What India truly needs are hundreds of "Singapores" and "Kyotos" – cities where nature, heritage, and modern urban living blend seamlessly with a regenerative spirit. And unequivocally, more trees and less asphalt everywhere!
 
-![](ss-uc-globalia-deforestation.png)
-*(Image: Illustrating the stark difference between green, walkable urban spaces and asphalt-dominated ones)*
-
 The Doughnut Economics Action Lab offers an exhaustive [Urban Development Manual and Toolkit](https://doughnuteconomics.org/tools/doughnut-for-urban-development-manual-and-tools) for holistic assessment. Our proposal complements such frameworks by focusing on a **tokenized protocol for air-space, greenery, and public-space credits** to accelerate this regenerative journey.
 
 ![](../_images/ss-uc-dougnut-econ.png)
@@ -79,9 +76,6 @@ Sāmatvārtha is India's blueprint for intentionally shifting towards these rege
 
 As India urbanizes, we must pivot from car-dependent development and rigid master plans. The current paradigm leads to sprawl, environmental decay, and strained infrastructure. A new protocol, rooted in regenerative urbanism, is essential for the Avanti Metropolitan Region i.e. this Mahanagri of Rudra & Ahilya.
 
-![](../_images/ss-uc-tree-cover-temp-diff.png)
-*(Image: Temperature differences in streets with and without tree cover)*
-
 At its heart is a **tokenized system** incentivizing sustainable development, promoting diverse public transit, and fostering harmony between greenery, public amenities, and construction. This system mandates acquiring not just land and floor-space rights, but also **Green-Space Credits** and **Public-Space Credits** for any development.
 
 * **Credit Valuation:** Credits are categorized by ecological value and community significance. Pristine Natural Green Spaces (4x value) and Iconic Public Spaces (4x) are prized, while Reclaimed Green Spaces (0.5x) and Potential Public Spaces (0.5x) offer accessible pathways for regeneration. This ensures development prioritizes vital green and public assets. Check image below for reference.
@@ -95,6 +89,9 @@ At its heart is a **tokenized system** incentivizing sustainable development, pr
 * **Adaptive Local Governance:** Governance shifts to defining discounting factors, the extent of the curve, and overseeing air-space rights minting. This flexible approach allows Avanti to adapt to unique local needs. If future needs arise, say for clean-energy credits, the framework is modular enough to accommodate them.
 
 This regenerative urbanism protocol offers a holistic approach, balancing environmental preservation, community engagement, and efficient land use. It aligns with creating urban clusters that seamlessly blend nature, heritage, and modern lifestyles, fostering inclusive growth. The upcoming **Madhya Pradesh Metropolitan Planning and Development Act 2025**, and the Chief Minister's vision for Indore and Bhopal as metropolitan areas, make this the opportune moment for Avanti to adopt such an innovative strategy.
+
+![](../_images/ss-uc-tree-cover-temp-diff.png)
+*(Image: Temperature differences in streets with and without tree cover)*
 
 ![](../_images/ss-uc-protocol-ladder.png)
 *(Image: Urbanism as a Protocol - Green-Space Credits & Public-Space Credits categories)*
