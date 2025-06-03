@@ -3,6 +3,8 @@
 
 > (2014P_Samatvartha / Consumption Module / AdVenture Memo)
 
+> https://www.costbo.com/ is quite similar model, so make them a sutradhaar instead of working on this independently as 2014P
+ 
 ### Vision:
 A decentralized quick commerce backbone for India. Empowering new-age local entrepreneurs (or next generation of Kiranas, stockists) and D2C brands, making hyperlocal delivery efficient, accessible, and community-centric. A federated, Samatvartha-aligned alternative to capital-intensive, centralized dark store models.
 
