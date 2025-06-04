@@ -1,6 +1,8 @@
 # KYRM Community Banking: Trust-Forged Capital. Community-Powered Autonomous Velocity.  
 (Adventure Memo - 2014P_Samatvartha / Capital )
 
+> Add material about how this complements OCEN 4.0 which targets small tenor MSME loans now. OCEN introduces the information based underwriting paradigm over collateral based, and KYRM CB proposal is adding a trust-graph based paradigm which can not only help decrease unwilling defaults in OCEN but also complement it with blended finances and co-lending paradigm on a new underwriting paradigm.  
+
 ### TLDR:
 KYRM Community Banking DPI revitalizes India's local finance by tackling dysfunctional UCBs and underperforming P2P platforms. It architects an autonomous, transparent orchestration layer where community-validated P2P loans (grounded in social trust) trigger rules-based, automated co-lending from UCBs and other NBFCs. This compliant innovation bypasses traditional discretionary bottlenecks and corruption, making UCBs truly cooperative and P2P impactful. The DPI builds a trusted foundation for advanced liquidity solutions like Cycles.Money (for multilateral netting) and is designed for future synergy with KYRM's ONDP for ultra-efficient settlement and programmable, compliant finance (CBDCs, automated tax). Ultimately, it fosters resilient, local economies, empowers MSMEs, and provides a Samatvartha-aligned, community-driven alternative to centralized financial leviathans.
 
