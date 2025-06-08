@@ -3,6 +3,30 @@
 
 > Add material about how this complements OCEN 4.0 which targets small tenor MSME loans now. OCEN introduces the information based underwriting paradigm over collateral based, and KYRM CB proposal is adding a trust-graph based paradigm which can not only help decrease unwilling defaults in OCEN but also complement it with blended finances and co-lending paradigm on a new underwriting paradigm.  
 
+**Core Idea: OCEN 4.1 - Adding a "Social Trust" Underwriting Layer.** (Or can be a private LA innovation on top of OCEN 4.0)  
+Traditional (Collateral) <-> OCEN 4.0 (Information) <-> **Proposed OCEN 4.1 (Social Trust Graph/"Saakh").**
+
+**Key Mechanisms for OCEN 4.1 Integration:**
+
+1. **"Saakh Score" via P2P:** Loan Agents use compliant P2P co-investment by local communities to generate a "Saakh Score" – a new, potent data input for OCEN Lenders. Crucial for thin-file MSMEs. All compliant per RBI regulations. Waterfall underwriting and guarantee.
+    
+2. **Enabling Capex/Purpose-Loans (T4-Style):** Community P2P tranches de-risk loans, enabling UCBs/NBFCs in OCEN Product Networks to co-fund capex (e.g., PMEGP for federated ventures). Local UCBs can assist with end-use/collection control.
+    
+3. **M2M "Trustflow":** Extend "Saakh" principle to formalize Merchant-to-Merchant credit signals within an OCEN-like framework for richer B2B finance.
+    
+4. **DEPA & Advanced Liquidity:**
+    
+    - "Saakh" data as a DEPA-compliant asset (with consent).
+        
+    - Cycles.Money-type graph theory based multilateral netting using [TEE](https://www.youtube.com/watch?v=XwKIt5XYyqw)s/ZK, aligning with DEPA's privacy-preserving computation & CCR for efficient community liquidity.
+        
+
+**Implementation:** Can be piloted by an innovative LA, or ideally, developed as a core OCEN 4.1 protocol extension (WeSpirit).
+
+Actively applying the 'Failure Modes' framework as discussed in 50th volunteer call to this. Will share updated, persona-oriented analysis hopefully before our meeting.
+
+This "Trustflow" aims to deepen OCEN’s impact by integrating India's social capital.
+
 ### TLDR:
 KYRM Community Banking DPI revitalizes India's local finance by tackling dysfunctional UCBs and underperforming P2P platforms. It architects an autonomous, transparent orchestration layer where community-validated P2P loans (grounded in social trust) trigger rules-based, automated co-lending from UCBs and other NBFCs. This compliant innovation bypasses traditional discretionary bottlenecks and corruption, making UCBs truly cooperative and P2P impactful. The DPI builds a trusted foundation for advanced liquidity solutions like Cycles.Money (for multilateral netting) and is designed for future synergy with KYRM's ONDP for ultra-efficient settlement and programmable, compliant finance (CBDCs, automated tax). Ultimately, it fosters resilient, local economies, empowers MSMEs, and provides a Samatvartha-aligned, community-driven alternative to centralized financial leviathans.
 
