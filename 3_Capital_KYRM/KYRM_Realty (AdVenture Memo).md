@@ -1,4 +1,4 @@
-
+> Kyrm Realty website MVP link: https://kyrm.in
 ### Overview: KYRM ( कर्म ) Realty | Fractional Ownership, Simplified
 
 KYRM is building **market infrastructure for fractional ownership and alternative investments**. The realty arm's initial focus is real estate financialization in India, leveraging the transformative opportunity unlocked by SEBI's recent SM-REIT regulatory framework.

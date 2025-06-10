@@ -1,6 +1,8 @@
 ### Overview: *Inter*~~nship~~ + ~~boot~~*camp*
 > Your Astral Gateway to Learning by Doing; Coworking + Communities
 
+> Stale MVP experiment link: https://intercamp.framer.website/
+
 Intercamp is a novel (social media & coworking) ecosystem connecting learners and professionals with real-world opportunities, enabling communities to volunteer for initiatives while earning equity, experience, and fraternity. It serves as an asynchronous alternative to traditional internships, hackathons, and research programs. It aims to provide top-notch collaborative environments for coworking with aligned communities - an operating system for any network state.
 ##### Core Value Propositions
 - Community-driven platform for learners & doers to earn proof of experience while building potential equity (i.e. notional contributions log for future monetization share) 

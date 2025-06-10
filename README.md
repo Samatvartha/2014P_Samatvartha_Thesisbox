@@ -43,6 +43,15 @@ We're not aiming to be a 'unicorn' startup—we are building a **federated fores
 
 Specific sub-modules and venture's action plan are getting updated in the GitHub Repo, and first set of proposals should be done by the end of May 2025: [📂 GitHub Repo: Samatvartha Thesisbox](https://github.com/Samatvartha/2014P_Samatvartha_Thesisbox)
 
+The goal: What truly matters... is how we move down that yellow arrow – without compromising on our ecological ideals. The real productivity lies in building a regenerative, federated, local-first economy – one that actually serves people and planet, not just numbers on a spreadsheet.  
+
+![](_images/gini-coefficient-vs-gdp-per-capita-pip-India-vs-the-world.png)
+
+  
+This shift won’t be proactively chased by the republic. It’ll have to happen despite it, bypassing the entrenched, rotten incentives. Our policymakers and the private sector will need to shed old assumptions, sit with discomfort, and unlearn a lot of what they think they know. It’ll feel messy. But unless we break from the old script, capital concentration will deepen, ecosystems will collapse, and we’ll still be chasing false progress.  
+  
+> The answer I landed upon is in Sāmatvārtha (Network State.) More on it as things progress, but for now let me recommend this EP by Uniyal - Nanda Devi Express - which expresses the tension that 'growth' and 'development' can cause to people and planet really well. It's a different irony how one of the tracks (Vartmaan) got viral considering the theme of the artwork...
+
 ---
 
 ### Understanding Our Structure: A Modular Approach 🧩
