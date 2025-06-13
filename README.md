@@ -1,22 +1,30 @@
 # 2014P_Samatvartha_Thesisbox: Incubating India's Regenerative Future
 
-This repository is the incubation hub for **Sāmatvārtha** – a comprehensive framework and action plan for building a Network State rooted in regenerative principles. We are developing the ideas, strategies, and shared techno-legal commons for a federated, regenerative future—powered by AI+Interchain+DPI, and Sāmatvārtha’s Indic-rooted socio-economic vision. The goal is to catalyse conscious capitalism, scaled through ventures, digital infra, and public policy. Think: India Stack × Interchain × Network State. 
+This repository is the incubation hub for **Sāmatvārtha** – a comprehensive socio-economic vision and action plan for building an Indic Network State to catalyse conscious capitalism. 
+
+Aiming to ride the compounding leverage that AI+Interchain+DPI provide, we are developing the ideas, strategies, shared techno-legal commons and community of private entrepreneurs & changemakers helping Bharat (& beyond) make progress towards a more regenerative, federated, local-first economic future  – one that actually serves people and planet, not just numbers on a spreadsheet.
+
+The moment is ripe with various converging inflections: AI, decentralization, India's ascent, climate change, first monetary reset of digital era, geopolitical realignment, etc. Thus, 2014P_ (a Think Tank, Venture Lab & Investment Studio) is working towards bootstrapping this ambitious regenerative vision to life. 
+
+We aim for this effort to shape itself into a self-sustaining cellular automata as soon as possible, and thus the ambitious goal is achievable with the right 'rules' -- or strategic levers and initiatives in our case. Think: India Stack × Cosmos Interchain × Network State! (Read the TL;DR in next section.)
+
+What truly matters... is how we move down that yellow arrow – without compromising on our ecological and social ideals. How? Tag along! 
+
+![Income inequality vs. GDP per capital. India shall aim to reduce gini's coefficient while improving on per capital consumption metrics as well.](_images/gini-coefficient-vs-gdp-per-capita-pip-India-vs-the-world.png)
 
 
 > [!NOTE]  
-> Draft Under Progress | Version v0.3.5 | Do vote up this initiative at the [Network State Dashboard](https://thenetworkstate.com/dashboard/p/samatvartha)
+> Draft Under Progress | Version v0.3.9 | [Network State Dashboard Pre-listing](https://thenetworkstate.com/dashboard/p/samatvartha)
 
 ---
-### TLDR 🔰
+### TL;DR - The Sāmatvārtha Ecosystem 🔰
 
 Based on a philosophical framework of "Sāmatva" (balance/equilibrium/resonance) + "Artha" (purpose/prosperity/meaning), aiming to harmonise economic activity with ecological and social well-being. 
 
-2014P_ is incubating this thesis and initial network - until it takes its own shape - via a **Venture Lab** (a DPI venture builder) and **Think Tank** (focused on public policy and institutional reform). You can consider this as Indian version of Doughnut Economic Action Lab or Boundaryless, but more indexed on new private ventures building for impact.
-
-**How it Works (The "Sāmatvārtha Ecosystem"):** 🤔
+**How it Works  - The "Sāmatvārtha Ecosystem"** (in reverse order of incubation): 🤔
 
 1. **Sāmatvārtha Stack** – _India Stack for Regeneration:_
-   A set of public policy proposals and their change management with digital public infrastructures (DPIs), similar to India Stack, aimed at government-level changes. 
+   A set of public policy proposals and their change management with digital public infrastructures (DPIs), similar to India Stack, aimed at government-level changes. Draws inspiration from Doughnut Economic Action Lab as well.
 
 2. **Sāmatvārtha Interchain** – _Cosmos for Commons:_
    A network of interoperable tools, ventures, and digital infrastructure enabling regenerative business models (by innovating on foundational primitives like capital, labour, land, etc.). Built through incremental venture experiments and scaled into federated franchising & DPI platforms. Few examples:
@@ -38,40 +46,14 @@ Based on a philosophical framework of "Sāmatva" (balance/equilibrium/resonance)
 **The Big Picture:** 🌄
 We're not aiming to be a 'unicorn' startup—we are building a **federated forest** of regenerative enterprises and infrastructures. The moment is ripe, various inflections are converging: AI, decentralization, India's ascent, climate change, first monetary reset of digital era, geopolitical realignment, etc.
 
+> We aim to reclaim the lost relationship between the household and the commons, undoing aspects of our over reliance & outsourcing to Markets & State - one could 'joke' that we are in it to undo the mistakes of Adam Smith & Karl Marx. You will understand this statement better as you go through various proposals and initiatives. Core point being, Indian Civilizational State is capable of far more than chasing mere false sense of progress as defined by the colonial and the imperial. 
+
+Specific sub-modules and venture's action plan are getting updated in the GitHub Repo. We are in process of making an easier contribution and discovery mechanism for various proposals and pillars. Expect complete public launch by July, 2025: [📂 GitHub Repo: Samatvartha Thesisbox](https://github.com/Samatvartha/2014P_Samatvartha_Thesisbox)
+
 > [!TIP]
 >Do explore how you can join this network state as a mentor, an entrepreneur,  an angel, a contributor - or simply put, a **Sutradhaar** - in shaping this thesis and its rollout.
 
-Specific sub-modules and venture's action plan are getting updated in the GitHub Repo, and first set of proposals should be done by the end of May 2025: [📂 GitHub Repo: Samatvartha Thesisbox](https://github.com/Samatvartha/2014P_Samatvartha_Thesisbox)
-
-The goal: What truly matters... is how we move down that yellow arrow – without compromising on our ecological ideals. The real productivity lies in building a regenerative, federated, local-first economy – one that actually serves people and planet, not just numbers on a spreadsheet.  
-
-![](_images/gini-coefficient-vs-gdp-per-capita-pip-India-vs-the-world.png)
-
-  
-This shift won’t be proactively chased by the republic. It’ll have to happen despite it, bypassing the entrenched, rotten incentives. Our policymakers and the private sector will need to shed old assumptions, sit with discomfort, and unlearn a lot of what they think they know. It’ll feel messy. But unless we break from the old script, capital concentration will deepen, ecosystems will collapse, and we’ll still be chasing false progress.  
-  
-> The answer I landed upon is in Sāmatvārtha (Network State.) More on it as things progress, but for now let me recommend this EP by Uniyal - Nanda Devi Express - which expresses the tension that 'growth' and 'development' can cause to people and planet really well. It's a different irony how one of the tracks (Vartmaan) got viral considering the theme of the artwork...
-
----
-
-### Understanding Our Structure: A Modular Approach 🧩
-
-To navigate this repository and our broader vision, consider the following hierarchy. This modular structure mirrors the constructs of Intercamp, a sub-module for coworking+community collaboration between individuals, institutions, and initiatives.
-
-- **Initiatives:** Overarching strategic commitments (e.g., the Sāmatvārtha Network State, the Interchain, the Stack). Currently, these are unified within this ThesisBox repository.
-    
-- **Primitives:** Fundamental domains or core economic building blocks we aim to address (e.g., Capital, Labour, Production, Education).
-    
-- **Adventures:** Specific venture experiments or distinct projects designed to innovate within these primitives.
-    
-- **Quests:** Focused workstreams or pilot projects undertaken within an Adventure.
-    
-- **Bounties:** Clearly defined, outcome-driven deliverables or sub-projects that advance a Quest.
-
-Before we dive deep into what Samatvartha Thesisbox is, below is an (indicative) illustration of various high-level components of it. You will discover specific proposals and action plan as you go through these sub-modules. 
-
-
-![Caption: This diagram illustrates the interconnected components of the Sāmatvārtha ecosystem, from its philosophical underpinnings to its practical implementation through the Network State, Stack, Interchain, and specific venture modules.](_images/2014P_Samatvartha_Thesisbox_Vertical_0506.svg)
+ > This shift won’t be proactively chased by the republic. It’ll have to happen despite it, bypassing the entrenched, rotten incentives. Our policymakers and the private sector will need to shed old assumptions, sit with discomfort, and unlearn a lot of what they think they know. It’ll feel messy. But unless we break from the old script, capital concentration will deepen, ecosystems will collapse, and we’ll still be chasing false progress. More on it as things progress, but for now let me recommend this EP by Uniyal - Nanda Devi Express - which expresses the tension that 'growth' and 'development' can cause to people and planet really well.
 
 ---
 
@@ -211,9 +193,9 @@ Just as India Stack required dedicated "[Sutradhaars](https://www.linkedin.com/p
 
 ---
 
-### The 2014P_ Approach: Venture Lab & Think Tank 🎬
+### The 2014P_ Approach: Venture Lab, Think Tank & Investment Studio 🎬
 
-You can call 2014P_ a Venture Lab, a Think Tank, or an exclusive community of dreamers, builders, and angels. In simple terms, we act as:
+You can call 2014P_ a Venture Lab, a Think Tank, an Investment Studio, or an exclusive community of dreamers, builders, and angels. In simple terms, we act as:
 
 - **Ecosystem Orchestrator:** Connecting talent, capital, and execution capabilities.
     
@@ -293,5 +275,25 @@ Building this future requires collective action, a community "co-mutiny" for pos
 
 The future must be regenerative. The future must be federated. The future shall be Sāmatvārtha.  
 Will you do your bit?
+
+---
+# Understanding Our Structure: A Modular Approach 🧩
+
+To navigate this repository and our broader vision, consider the following hierarchy. This modular structure mirrors the constructs of Intercamp, a sub-module for coworking+community collaboration between individuals, institutions, and initiatives.
+
+- **Initiatives:** Overarching strategic commitments (e.g., the Sāmatvārtha Network State, the Interchain, the Stack). Currently, these are unified within this ThesisBox repository.
+    
+- **Primitives:** Fundamental domains or core economic building blocks we aim to address (e.g., Capital, Labour, Production, Education).
+    
+- **Adventures:** Specific venture experiments or distinct projects designed to innovate within these primitives.
+    
+- **Quests:** Focused workstreams or pilot projects undertaken within an Adventure.
+    
+- **Bounties:** Clearly defined, outcome-driven deliverables or sub-projects that advance a Quest.
+
+Before we dive deep into what Samatvartha Thesisbox is, below is an (indicative) illustration of various high-level components of it. You will discover specific proposals and action plan as you go through these sub-modules. (This is to be updated with latest thinking.)
+
+
+![Caption: This diagram illustrates the interconnected components of the Sāmatvārtha ecosystem, from its philosophical underpinnings to its practical implementation through the Network State, Stack, Interchain, and specific venture modules.](_images/2014P_Samatvartha_Thesisbox_Vertical_0506.svg)
 
 ---
