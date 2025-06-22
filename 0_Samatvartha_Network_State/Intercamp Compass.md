@@ -86,6 +86,12 @@ This is the most critical piece of the entire strategy. It balances zero frictio
 
 ### **Appendix: The Deeper Vision & Architectural Considerations**
 
+The most vibrant economic activity in India happens within **trusted communities**. These are our modern villages using digital tools like Whatsapp as their nervous system. And it is chaotic and ephemeral. It's a place for announcements, not a marketplace for opportunities. The immense potential of their collective Pehchaan (a blend of identity, reputation, and connections) remains locked. Discovery is inefficient, collaboration is ad-hoc, and growth is throttled.
+
+**Intercamp Compass** is not a "tool." It is a piece of fundamental infrastructure designed to solve this. We are building the **digital town hall and a substrate for many layered use cases like a marketplace or community credit union etc.** for these villages. Our mission is to provide the substrate for a new, federated, and regenerative micro-economy to emerge from the ground up.
+
+The core unit of this economy is the **Self-Enterprising Unit (SEU)**—the solo consultant, the family shop, the home-preneur, the 3-person studio. Our system is architected around their reality.
+
 #### **A. The Capability Manifest: The Soul of the New Machine**
 
 The "profile" is not just a profile. It is the living, digital soul of a **Self-Enterprising Unit (SEU)**—the solo consultant, the family firm, the home-preneur. It is architected around three questions:
