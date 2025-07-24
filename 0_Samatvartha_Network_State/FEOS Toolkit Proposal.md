@@ -77,6 +77,19 @@ The FEOS provides the operating architecture for complex collaborative platforms
 *   **Structure:** Intercamp itself can be a **Steward (S5)**, holding the platform IP. Each "AdVenture" on the platform becomes its own **LLP (S3/S4)**. Contributors engage via the **Contribution Framework (T1-T5)**, earning a contractual stake in the specific projects they help build.
 *   **Function:** This enables mass collaboration with clear, legally sound pathways to ownership in the value created.
 
-### 6. The Macro-Economic Imperative: A Pathway to Formal Scale
+### 6. Recommendations for Labour-Law Resilience
+
+1. **Embed voluntary social security:** Even if you stay below thresholds, offer PF/ESI-equivalent retirement and health contributions. This preempts reclassification risk and builds goodwill.
+    
+2. **Rigorous role differentiation:** Ensure that T1–T5 contracts explicitly avoid control-like terms. Use genuinely project-based assignments, fixed days-of-work caps, and no exclusivity clauses.
+    
+3. **Periodic audits:** Have an external labour-compliance audit to validate that none of your “partners” or “consultants” meet the legal tests for “employee.”
+    
+4. **Align with new Codes:** Map your federated pods to the **Code on Social Security, 2020** and the **Code on Wages, 2019**, anticipating future coverage of gig/platform workers.
+    
+5. **Leverage cooperatives strategically:** Use producer- or worker-co-ops (S5) to institutionalize real democratic governance and statutory social-security schemes under the Co-op Societies Act.
+
+
+### 7. The Macro-Economic Imperative: A Pathway to Formal Scale
 
 The FEOS framework directly addresses the national goal of proliferating formal enterprises. By providing a series of viable, intermediate structures, it creates a **gentle ramp into formality**. It de-risks growth, makes collaboration contractually sound, and provides a clear pathway for ventures to scale without hitting a compliance cliff-edge. This is the essential architectural work required to build a broad-based, resilient economy and productively engage India's demographic potential.
